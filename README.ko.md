@@ -321,6 +321,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 짙은 크레용 · 아이보리 수제 종이 · 부드러운 불규칙 색면 · 리소그래프 입자 · 넓은 여백 · 사적 메모 |
 | **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | 거친 짙은 크레용 · 목탄 · 밝은 마카롱 색면 · 45% 연속 여백 · 천연 종이 · 관찰 메모 |
 | **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | 미니멀 종이 조각 · 명확한 종이 오리기 윤곽 · 앞뒤 층 · 부드러운 그림자 · 인간적 마카롱 · 여행 잡지 타이포그래피 |
+| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | 아이보리 코튼 종이 · 딥 디보스 · 홈 안 샴페인 금박 · 가는 선형 표장 · 무잉크 압인 · 절제된 고급감 |
 | **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | 강한 기하 직선 · 자유 유기 곡선 · 펜 앤 워시 · 미완성 감각 · 넓은 종이 흰색 · 편집형 이미지·타입 |
 <!-- xxd-panel-catalog:end -->
 

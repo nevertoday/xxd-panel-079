@@ -23,7 +23,7 @@ Sample positions are reserved. Verifiable original works or extensions reviewed 
 
 Edge-tracing filters mechanically copy everything, while complete watercolour scenes often fill the background until subject, space, and editorial rhythm all become heavy.
 
-**Panel 079** records only the structures, spaces, actions, and现场 relationships worth remembering. Long perspective lines, angular contours, and geometric axes build a rational scaffold; organic curves, searching lines, breaks, and slight misregistration preserve the hand. A few source-derived colours appear as transparent watercolour accents, while natural near-white paper carries air and pause. Typography follows the structure and whitespace like an art-directed architectural travel sketchbook or independent visual journal.
+**Panel 079** records only the structures, spaces, actions, and on-site relationships worth remembering. Long perspective lines, angular contours, and geometric axes build a rational scaffold; organic curves, searching lines, breaks, and slight misregistration preserve the hand. A few source-derived colours appear as transparent watercolour accents, while natural near-white paper carries air and pause. Typography follows the structure and whitespace like an art-directed architectural travel sketchbook or independent visual journal.
 
 ### Best for
 

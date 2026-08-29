@@ -321,6 +321,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | قلم شمعي داكن · ورق عاجي يدوي · مساحة لونية ناعمة · حبيبات ريسوغراف · فراغ واسع · ملاحظة خاصة |
 | **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | قلم شمعي داكن خشن · فحم · مساحات ماكرون مشرقة · فراغ متصل 45٪ · ورق طبيعي · ملاحظات رصد |
 | **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | نحت ورقي بسيط · محيطات قص واضحة · طبقات · ظل ناعم · ماكرون إنساني · طباعة مجلة سفر |
+| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | ورق قطني عاجي · ضغط غائر عميق · ذهب شامبانيا داخل الأخدود · علامة خطية دقيقة · ضغط بلا حبر · فخامة هادئة |
 | **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | خطوط هندسية قوية · منحنيات عضوية حرة · حبر وتلوين مائي · إحساس غير مكتمل · بياض ورق واسع · تركيب تحريري |
 <!-- xxd-panel-catalog:end -->
 

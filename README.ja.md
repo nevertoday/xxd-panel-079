@@ -321,6 +321,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 濃色クレヨン · アイボリー手工紙 · 柔らかな不定形色面 · リソグラフ粒子 · 大きな余白 · 私的注記 |
 | **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | 粗い濃色クレヨン · 木炭 · 明るいマカロン色面 · 45%連続余白 · 天然紙 · 観察注記 |
 | **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | ミニマル紙彫刻 · 明瞭な切り紙輪郭 · 前後レイヤー · 柔らかな影 · 人間的マカロン · 旅行誌組版 |
+| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | アイボリーコットン紙 · 深い凹圧 · 凹溝シャンパン金箔 · 繊細線形標章 · 無インク空押し · 控えめな高級感 |
 | **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | 強い幾何直線 · 自由な有機曲線 · ペン淡彩 · 未完成感 · 広い紙白 · 編集的な図文構成 |
 <!-- xxd-panel-catalog:end -->
 
