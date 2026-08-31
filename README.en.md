@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 079
+# 🦁 XXD Panel 079｜Pen-and-Wash Journal
 
 ### Reframe the photograph as an observed page of geometric structure, free ink, and spare watercolour
 

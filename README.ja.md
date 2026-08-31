@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 079
+# 🦁 XXD Panel 079｜ペン淡彩手帳
 
 ### 写真を幾何骨格・自由な墨線・淡彩の現場観察ページへ
 

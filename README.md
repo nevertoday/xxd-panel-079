@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 079
+# 🦁 XXD Panel 079｜钢笔淡彩志
 
 ### 把照片转译成有几何骨架、自由墨线与轻薄淡彩的现场观察页
 
