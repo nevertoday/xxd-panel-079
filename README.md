@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 079 项目横幅" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 079｜钢笔淡彩志
