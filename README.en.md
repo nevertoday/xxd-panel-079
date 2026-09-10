@@ -47,6 +47,15 @@ Edge-tracing filters mechanically copy everything, while complete watercolour sc
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-extract identity, structure, space, action, and narrative relationship → establish a scaffold with long lines, angular turns, and geometric axes → interrupt order with organic curves and searching marks → add sparse transparent washes from recognisable source colours → remove complex background and preserve broad paper white → let fine typography participate along structure lines and open space
-```
-
-## Recognisable finished traits
-
-- From a distance the page has clear geometric order; close up it retains loose uneven searching lines, breaks, and unfinished edges.
-- Architecture and objects favour straight lines, turns, planes, and proportion; people, plants, animals, clouds, and water interrupt them with organic curves.
-- Transparent wash appears only where necessary, with slight overrun, watermarks, grain, and uneven coverage allowed.
-- Off-centre placement, local cropping, and one-sided extension let broad paper white carry sky, air, distance, and pause.
-- Fine editorial type follows perspective lines, axes, subject edges, or whitespace instead of becoming a conventional title-and-body menu.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-079-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
