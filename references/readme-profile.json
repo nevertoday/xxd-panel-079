@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 079｜Pen-and-Wash Journal: turns the structure, space and action of a photo into an unfinished pen-and-wash sketch where long straight perspective lines, folded contours and horizontal, vertical and diagonal axes build a geometric skeleton, while free organic curves from people, plants, animals, clouds or water break it up; lines are thin, loose and uneven with searching, repeated and broken strokes, a few transparent watercolour touches from the photo's most recognisable colours appear only where needed, the subject sits off-centre on large near-white paper, and a few words in fine editorial type run along perspective lines or open space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-079 or asks for pen-and-wash, ink and watercolour travel sketch or architectural urban sketch from a photo.",
+  "short_description": "钢笔淡彩志：几何直线搭骨架、自由曲线添手感，再点几处淡彩，画成一页未完成的现场速写",
+  "zh-CN": {
+    "name": "钢笔淡彩志",
+    "tagline": "用几何直线、自由墨线和几处淡彩，把照片画成一页像在现场画到一半的速写。",
+    "look": "长长的透视直线、折线轮廓和横竖斜的轴线先搭出空间骨架，建筑和器物只抓最有力的直线与转折；人物、植物、云或水面用自由的曲线打破这种秩序。线条纤细、松散、不均匀，留着寻找线、重复线和断线，边缘像没画完。只在必要的地方点几处透明水彩，颜色取自照片里最好认的颜色，可以越线、留水痕。主体偏在一边，大片接近白色的纸面当作天空和空气，几行纤细的编辑字体沿透视线或留白排开。",
+    "traits": ["强几何骨架", "自由有机曲线", "钢笔淡彩", "未完成感", "大面积纸白", "编辑式图文"],
+    "good": [
+      "透视和结构感强的建筑与街道：老街巷、教堂、车站站台、楼梯",
+      "旅行中的现场画面：广场上的人、桥和河、咖啡馆外座",
+      "直线环境里有曲线元素的照片：建筑前的树、街角的行人、屋顶上的云"
+    ],
+    "poor": [
+      "没有结构线、全是柔软形体的照片：花丛特写、宠物毛发、云海",
+      "需要完整上色或写实精描的需求：人像肖像、美食、产品图",
+      "想要工整技术制图、粗黑轮廓、照片描边滤镜或画满背景的水彩风景"
+    ]
+  },
+  "en": {
+    "name": "Pen-and-Wash Journal",
+    "tagline": "Draws your photo as a half-finished on-site sketch of geometric lines, free ink and a few light washes.",
+    "look": "Long straight perspective lines, folded outlines and horizontal, vertical and diagonal axes build the spatial skeleton, catching only the strongest straight edges and turns of buildings and objects, while people, plants, clouds or water break that order with free curves. Lines are thin, loose and uneven, with searching, repeated and broken strokes and edges that look unfinished. Transparent watercolour appears only where needed, in the photo's most recognisable colours, allowed to cross lines and leave water marks. The subject sits to one side, wide near-white paper stands in for sky and air, and a few lines of fine editorial type run along perspective lines or open space.",
+    "traits": ["Strong geometric skeleton", "Free organic curves", "Pen and wash", "Unfinished feel", "Wide paper white", "Editorial text"],
+    "good": [
+      "Buildings and streets with strong perspective: old lanes, a church, a station platform, a staircase",
+      "On-the-spot travel scenes: people in a square, a bridge over a river, café terrace tables",
+      "Straight-lined settings with a few curves: a tree in front of a building, a pedestrian at a corner, clouds over rooftops"
+    ],
+    "poor": [
+      "Photos with no structural lines, only soft forms: close-up flower beds, pet fur, a sea of clouds",
+      "Requests for full colour or detailed realism: portraits, food, product shots",
+      "Looks that need neat technical drawing, thick black outlines, a photo-trace filter or a fully painted watercolour landscape"
+    ]
+  },
+  "ja": {
+    "name": "ペン淡彩手帳",
+    "tagline": "幾何学的な直線、自由な墨線、数か所の淡彩で、写真を現場で描きかけたようなスケッチにします。",
+    "look": "長い遠近法の直線、折れ線の輪郭、縦・横・斜めの軸線がまず空間の骨組みをつくり、建物や器物はいちばん力のある直線と曲がり角だけをとらえます。人物、植物、雲、水面は自由な曲線でその秩序を崩します。線は細くゆるく不揃いで、探り線、重ね線、途切れた線が残り、縁は描きかけのようです。透明水彩は必要な所にだけ、写真でいちばん見分けやすい色で置き、線からはみ出したり水の跡を残したりします。主役は片側に寄り、ほぼ白の紙が空や空気の役を担い、細い編集書体の数行が遠近線や余白に沿って並びます。",
+    "traits": ["強い幾何学の骨組み", "自由な有機的曲線", "ペン淡彩", "描きかけの感じ", "広い紙の白", "編集的な文字組み"],
+    "good": [
+      "遠近や構造の強い建物や通り：古い路地、教会、駅のホーム、階段",
+      "旅先の現場の場面：広場の人々、橋と川、カフェのテラス席",
+      "直線の環境に曲線が少しある写真：建物の前の木、街角の歩行者、屋根の上の雲"
+    ],
+    "poor": [
+      "構造線がなく柔らかな形ばかりの写真：花壇のアップ、ペットの毛並み、雲海",
+      "全面の彩色や写実的な細密描写を求める場合：肖像、料理、商品写真",
+      "整った製図、太い黒の輪郭、写真のトレースフィルター、背景まで塗った水彩風景を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "펜 담채 저널",
+    "tagline": "기하학적 직선과 자유로운 먹선, 몇 군데 담채로 사진을 현장에서 그리다 만 듯한 스케치로 만듭니다.",
+    "look": "긴 투시 직선, 꺾인 윤곽, 가로·세로·사선 축이 먼저 공간의 뼈대를 세우고, 건물과 사물은 가장 힘 있는 직선과 꺾임만 잡습니다. 사람, 식물, 구름, 수면은 자유로운 곡선으로 그 질서를 깨뜨립니다. 선은 가늘고 느슨하며 고르지 않고, 더듬는 선, 겹친 선, 끊긴 선이 남아 가장자리가 미완성처럼 보입니다. 투명 수채는 꼭 필요한 곳에만 사진에서 가장 알아보기 쉬운 색으로 얹고, 선을 넘거나 물 자국이 남아도 괜찮습니다. 주인공은 한쪽으로 치우치고, 거의 흰 종이가 하늘과 공기를 대신하며, 가는 편집 서체 몇 줄이 투시선이나 여백을 따라 놓입니다.",
+    "traits": ["강한 기하 골격", "자유로운 유기적 곡선", "펜 담채", "미완성의 느낌", "넓은 종이 흰빛", "편집식 글자 배치"],
+    "good": [
+      "투시와 구조가 강한 건물과 거리: 오래된 골목, 교회, 기차역 플랫폼, 계단",
+      "여행지의 현장 장면: 광장의 사람들, 다리와 강, 카페 테라스 자리",
+      "직선 환경에 곡선 요소가 조금 있는 사진: 건물 앞 나무, 길모퉁이 행인, 지붕 위 구름"
+    ],
+    "poor": [
+      "구조선 없이 부드러운 형태뿐인 사진: 꽃밭 클로즈업, 반려동물 털, 운해",
+      "전면 채색이나 사실적 정밀 묘사를 원하는 경우: 초상화, 음식, 제품 사진",
+      "반듯한 기술 도면, 굵은 검은 윤곽, 사진 따라 그리기 필터, 배경까지 칠한 수채 풍경을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر القلم والألوان الخفيفة",
+    "tagline": "يرسم صورتك مخطّطاً ميدانياً نصف مكتمل من خطوط هندسية وحبر حرّ وبضع لمسات مائية خفيفة.",
+    "look": "تبني خطوط المنظور المستقيمة الطويلة والمحيطات المنكسرة والمحاور الأفقية والعمودية والمائلة هيكلَ المكان أولاً، فلا تلتقط من المباني والأشياء إلا أقوى الحواف المستقيمة والانعطافات، بينما تكسر الشخصيات والنباتات والغيوم والماء هذا النظام بمنحنيات حرّة. الخطوط رفيعة مرتخية غير منتظمة، فيها خطوط تتلمّس طريقها ومكررة ومتقطعة، وحواف تبدو غير مكتملة. لا تظهر الألوان المائية الشفافة إلا حيث تلزم، بأوضح ألوان الصورة، ولا بأس أن تتجاوز الخطوط وتترك آثار ماء. يقف العنصر في جانب، ويقوم الورق القريب من الأبيض مقام السماء والهواء، وتمتد بضعة أسطر بحرف تحريري رفيع على خطوط المنظور أو في الفراغ.",
+    "traits": ["هيكل هندسي قوي", "منحنيات عضوية حرّة", "قلم وألوان مائية", "إحساس بعدم الاكتمال", "بياض ورق واسع", "نص تحريري"],
+    "good": [
+      "مبانٍ وشوارع ذات منظور قوي: أزقة قديمة، كنيسة، رصيف محطة، درج",
+      "مشاهد سفر ميدانية: أشخاص في ساحة، جسر فوق نهر، طاولات مقهى في الهواء الطلق",
+      "أماكن مستقيمة الخطوط فيها بعض المنحنيات: شجرة أمام مبنى، مارّ عند ناصية، غيوم فوق الأسطح"
+    ],
+    "poor": [
+      "صور بلا خطوط بنيوية، كلها أشكال ناعمة: أحواض زهور عن قرب، فرو الحيوانات الأليفة، بحر من الغيوم",
+      "طلب تلوين كامل أو واقعية مفصّلة: صور شخصية، طعام، صور منتجات",
+      "مظهر يحتاج إلى رسم هندسي تقني منتظم أو خطوط سوداء سميكة أو فلتر تتبّع للصورة أو منظر مائي ملوّن بالكامل"
+    ]
+  }
+}
